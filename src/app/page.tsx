@@ -152,7 +152,7 @@ export default function Home() {
 
 
 
-      <div className="bg-white py-24 sm:py-32">
+      <div className="bg-white py-24 sm:py-32 m-3">
         <div className="mx-auto max-w-7xl px-6 lg:px-8">
           <div className="mx-auto max-w-2xl lg:text-center">
             <h2 className="text-base font-semibold leading-7 text-indigo-600">Deploy faster</h2>
@@ -181,10 +181,6 @@ export default function Home() {
           </div>
         </div>
       </div>
-
-
-
-
 
 
 
@@ -275,7 +271,7 @@ export default function Home() {
             <h2 className="text-4xl font-bold tracking-tight text-white sm:text-6xl">Work with us</h2>
             <p className="mt-6 text-lg leading-8 text-gray-300">
               Anim aute id magna aliqua ad ad non deserunt sunt. Qui irure qui lorem cupidatat commodo. Elit sunt amet
-              fugiat veniam occaecat fugiat aliqua.
+              fugiat veniam occaecat fugiat aliqua!
             </p>
           </div>
           <div className="mx-auto mt-10 max-w-2xl lg:mx-0 lg:max-w-none">
@@ -318,22 +314,15 @@ export default function Home() {
           </svg>
 
           <p class="mt-5 text-center text-sm leading-6 text-slate-500"> © 2024 DR.MVTA Labs Inc.
-                    All rights reserved. </p>
+            All rights reserved. </p>
 
-                    <div
-                    class="mt-16 flex items-center justify-center space-x-4 text-sm font-semibold leading-6 text-slate-700">
-                    <a href="/privacy-policy">Privacy policy</a>
-                    
-                </div>
+          <div
+            class="mt-16 flex items-center justify-center space-x-4 text-sm font-semibold leading-6 text-slate-700">
+            <a href="/privacy-policy">Privacy policy</a>
 
-
-
+          </div>
         </div>
-
       </footer>
-
-
-
 
     </main>
 
